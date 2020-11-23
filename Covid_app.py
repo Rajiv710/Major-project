@@ -3,8 +3,7 @@ import pandas as pd
 import datetime
 import matplotlib.pyplot as plt
 import seaborn as sns
-import bar_chart_race as bcr
-import time
+
 st.title('COVID 19 DATA ANALYSIS')
 st.markdown('By Rajiv')
 
